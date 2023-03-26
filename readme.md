@@ -14,8 +14,6 @@ Skills: **REACT** / **TSX**  / **NextJs** / **HTML** / **CSS** / **LUA** / **Pyt
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CookieHax)  
-
 ![GitHub metrics](https://metrics.lecoq.io/CookieHax)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=CookieHax)  
