@@ -13,4 +13,6 @@ Skills: **REACT** / **TSX**  / **NextJs** / **HTML** / **CSS** / **LUA** / **Pyt
 - 😄 Pronouns: He/Him 
 
 
-![Metrics](https://metrics.lecoq.io/Noah-Haf?template=classic&reactions=1&traffic=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&reactions=false&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&traffic=false&config.timezone=Europe%2FLondon)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
