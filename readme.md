@@ -13,9 +13,4 @@ Skills: **REACT** / **TSX**  / **NextJs** / **HTML** / **CSS** / **LUA** / **Pyt
 - 😄 Pronouns: He/Him 
 
 
-
-![GitHub metrics](https://metrics.lecoq.io/CookieHax)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=CookieHax)  
-
-![Profile views](https://gpvc.arturio.dev/CookieHax)  
+![Metrics](https://metrics.lecoq.io/Noah-Haf?template=classic&traffic=1&lines=1&sponsorships=1&achievements=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&sponsorships=false&sponsorships.sections=amount%2C%20sponsorships&sponsorships.size=24&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&traffic=false&config.timezone=Europe%2FLondon)
