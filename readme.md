@@ -1,7 +1,6 @@
 ### Hi there 👋, My Name is Noah 
-##### AKA Cookie
 #### I am the creator of RankGun & Cookie Tech
-
+##### AKA Cookie
 
 I’ve been creating games & developing since 2019 and I’ve been on the Roblox platform for a long time, I enjoy creating games as much as I do coding and scripting while working on  complex projects .
 
