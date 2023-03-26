@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name is Noah 
 #### I am the creator of RankGun & Cookie Tech
-![I am the creator of RankGun & Cookie Tech](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I’ve been creating games & developing since 2019 and I’ve been on the Roblox platform for a long time, I enjoy creating games as much as I do coding and scripting while working on  complex projects .
 
