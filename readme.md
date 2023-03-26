@@ -15,7 +15,6 @@ Skills: REACT / TSX  / NextJs / HTML / CSS / LUA / Python / FastAPI / MongoDB /
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CookieHax)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://forums.thecookie.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'>](https://www.youtube.com/@CookieTechRBLX)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CookieHax&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CookieHax)  
 
