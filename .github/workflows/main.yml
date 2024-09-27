@@ -28,7 +28,7 @@ jobs:
           user: zimo-gu
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/London
+          config_timezone: Australia/Sydney
           plugin_traffic: yes
           plugin_people: yes
           plugin_people_limit: 5
