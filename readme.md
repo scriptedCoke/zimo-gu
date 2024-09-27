@@ -1,6 +1,6 @@
-### Hi there 👋, My Name is Noah 
+### Hi there 👋, My Name is Zimo 
 
-Full Stack Developer skilled in Python, Nextjs, and TypeScript, specializing in large scale applications, dabbles in game development.
+Full Stack Developer skilled in Python, Nodejs, and Lua, specializing in game development, dabbles in discord bots.
 
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
